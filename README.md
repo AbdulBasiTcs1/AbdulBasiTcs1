@@ -1,96 +1,108 @@
-<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+Qasim;Web+Developer;MERN+Stack+Specialist;Backend+Contributor" alt="Typing SVG" />
+  </h1>
+  <img src="https://komarev.com/ghpvc/?username=SaadQasim19&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS" />
+</div>
 
 <p align="center">
-  💻 Flutter Developer | Backend Learner | CS Student<br>
-  📍 COMSATS University, Attock Campus<br>
-  🚀 Exploring Java, Python, Firebase, and MySQL<br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
 </p>
 
----
+## 📈 Contribution Activity
 
-### 🙋‍♂️ About Me
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadQasim19&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" width="100%" />
+</div>
 
-- 🔭 Currently working on **Flutter-based UI projects**
-- 🌱 Learning **Backend** with Java, Firebase & MySQL
-- 💬 Ask me anything about **Flutter, Java OOP, or Firebase**
-- 📫 Reach me at: **bearnwith@gmail.com**
-- ⚡ Fun Fact: *I’m growing into my teenage dev years!*
+## 🏆 GitHub Achievements
 
----
-
-### 🌐 Connect with Me
-
-<div id="badges">
-  <a href="https://github.com/AbdulBasiTcs1">
-    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@B_Codes_1">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/i_abdul.basit/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://web.facebook.com/abdul.basit.khaan.2025/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SaadQasim19&theme=onedark&margin-w=15&column=5&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
   </a>
 </div>
 
----
+## 🛠️ Technologies & Tools
 
-### 🧰 Tools & Technologies I Use
+<div align="center">
+  
+**Frontend**
+  
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,bootstrap,ts" />
 
-#### 💻 App Development
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**Backend**
 
-#### 🔙 Backend & Database
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,graphql" />
 
-#### 🛠 Version Control & Dev Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**DataBases**
 
-#### 💡 Others
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
 
 
-### 📊 GitHub Stats
+**Other Languages**
 
-![AbdulBasiTcs1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulBasiTcs1&show_icons=true&theme=radical)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,solidity" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulBasiTcs1&layout=compact&theme=radical)
+**Tools**
 
----
+<img src="https://skillicons.dev/icons?i=linux,git,jest,firebase,github,vscode,docker,redis,postman,figma" />
 
-### 🏆 GitHub Trophies
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbdulBasiTcs1&theme=radical&no-frame=true&row=1&margin-w=10)](https://github.com/AbdulBasiTcs1)
+## 🔥 Contribution Streaks
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SaadQasim19&theme=radical&hide_border=true&mode=weekly&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="400" />
+  <img src="https://streak-stats.demolab.com?user=SaadQasim19&theme=radical&hide_border=true&mode=daily&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="400" />
+</div>
 
-### 📌 Featured Projects
+## 📊 GitHub Analytics
 
-Here are a few repositories I’m proud of:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaadQasim19&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=FF9E64&text_color=FFFFFF&custom_title=Development+Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadQasim19&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF&langs_count=8" />
+</div>
 
-- 🔗 [Java DSA – 2025 Roadmap](https://github.com/AbdulBasiTcs1/Java-DSA-2025)
-- 🔗 [Flutter UI Showcase](https://github.com/AbdulBasiTcs1/flutter-ui)
-- 🔗 [Bank Management System – Java OOP Project](https://github.com/AbdulBasiTcs1/bank-management-system)
+## 🚀 About Me
 
----
+- 💻 **Skills:**  
+  - MERN Stack (MongoDB, Express, React, Node.js)  
+  - REST API Development, Scalable Architectures  
+  - Frontend: HTML5, CSS3, JavaScript, Next.Js
+  - Other: Python, Java, Git, MySQL
 
-### ✍️ Quote I Believe In
+- 🎯 **Interests:**  
+  - Building efficient, responsive full-stack applications  
+  - Writing clean, maintainable backend services 
 
-> "Consistency beats talent. Keep showing up even on the hard days."
+- 🌱 **Currently Exploring:**  
+  - Advanced Express.js Patterns , Typescript , Machine Learning , Blockchain development
+  - Microservices and Docker  
+  - Scalable Node.js, Cloud Deployments & DevOps 
 
----
+## 💼 Professional Experience
 
-### 🧭 Visitor Counter
+- Full-stack Development using MERN Stack  
+- Responsive UI/UX with modern frontend libraries  
+- REST APIs & Real-time features  
+- Scalable Backends with MongoDB,MySQL
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AbdulBasiTcs1&color=blue&style=flat)
+## 🌟 Featured Projects
 
----
 
-⭐️ From [AbdulBasiTcs1](https://github.com/AbdulBasiTcs1)
+
+## 📬 Connect With Me
+
+<p align="center"> 
+  <a href="mailto:m.saadqasim7665@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SaadQasim19">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+through+code+%F0%9F%92%BB;Open+for+collaborations+%F0%9F%92%AC;Let's+build+something+amazing+%F0%9F%9A%80;Innovation+meets+execution+%E2%9C%A8" alt="Typing SVG" />
+</p>
