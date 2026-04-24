@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad+Qasim;Web+Developer;MERN+Stack+Specialist;Backend+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Basit;Web+Developer;MERN+Stack+Specialist;Backend+Contributor" alt="Typing SVG" />
   </h1>
-  <img src="https://komarev.com/ghpvc/?username=SaadQasim19&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulBasiTcs1&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadQasim19&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulBasiTcs1&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" width="100%" />
 </div>
 
 ## 🏆 GitHub Achievements
@@ -53,15 +53,15 @@
 ## 🔥 Contribution Streaks
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SaadQasim19&theme=radical&hide_border=true&mode=weekly&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="400" />
-  <img src="https://streak-stats.demolab.com?user=SaadQasim19&theme=radical&hide_border=true&mode=daily&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="400" />
+  <img src="https://streak-stats.demolab.com?user=AbdulBasiTcs1&theme=radical&hide_border=true&mode=weekly&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="400" />
+  <img src="https://streak-stats.demolab.com?user=AbdulBasiTcs1&theme=radical&hide_border=true&mode=daily&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="400" />
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadQasim19&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=FF9E64&text_color=FFFFFF&custom_title=Development+Activity" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadQasim19&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulBasiTcs1&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=FF9E64&text_color=FFFFFF&custom_title=Development+Activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulBasiTcs1&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF&langs_count=8" />
 </div>
 
 ## 🚀 About Me
@@ -90,15 +90,15 @@
 
 ## 🌟 Featured Projects
 
-
+- Coming Soon ...
 
 ## 📬 Connect With Me
 
 <p align="center"> 
-  <a href="mailto:m.saadqasim7665@gmail.com">
+  <a href="mailto:abdulbasit.prodev.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SaadQasim19">
+  <a href="https://github.com/AbdulBasiTcs1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
