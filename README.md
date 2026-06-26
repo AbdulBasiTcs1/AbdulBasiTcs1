@@ -75,14 +75,23 @@ As a Full-Stack Developer, I specialize in building secure, responsive, and prod
 💻 Core Expertise :
 
 • Full-Stack MERN Development (MongoDB, Express.js, React.js, Node.js)
+
 • Next.js Development (App Router & Server Components)
+
 • React Native Mobile App Development
+
 • RESTful API Development
+
 • Authentication & Authorization (JWT, OAuth)
+
 • AI Integration (OpenAI APIs, AI Chatbots, AI Assistants, AI Automation)
+
 • Database Design & Management
+
 • Responsive & Modern UI Development
+
 • API Integration & Third-Party Services
+
 • Deployment & Cloud Hosting
 
 🛠 Technologies I Work With
