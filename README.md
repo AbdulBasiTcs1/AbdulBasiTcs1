@@ -66,31 +66,92 @@
 
 ## 🚀 About Me
 
-- 💻 **Skills:**  
-  - MERN Stack (MongoDB, Express, React, Node.js)  
-  - REST API Development, Scalable Architectures  
-  - Frontend: HTML5, CSS3, JavaScript, Next.Js
-  - Other: Python, Java, Git, MySQL
+🚀 Full-Stack MERN Developer | Next.js | React Native | AI-Integrated Applications
 
-- 🎯 **Interests:**  
-  - Building efficient, responsive full-stack applications  
-  - Writing clean, maintainable backend services 
+I help businesses, startups, and entrepreneurs transform ideas into scalable, modern, and high-performance web and mobile applications.
 
-- 🌱 **Currently Exploring:**  
-  - Advanced Express.js Patterns , Typescript , Machine Learning , Blockchain development
-  - Microservices and Docker  
-  - Scalable Node.js, Cloud Deployments & DevOps 
+As a Full-Stack Developer, I specialize in building secure, responsive, and production-ready applications using the MERN stack, Next.js, React Native, and modern backend technologies. I focus on writing clean, maintainable code while delivering solutions that are optimized for performance, scalability, and an excellent user experience.
 
-## 💼 Professional Experience
+💻 Core Expertise :
 
-- Full-stack Development using MERN Stack  
-- Responsive UI/UX with modern frontend libraries  
-- REST APIs & Real-time features  
-- Scalable Backends with MongoDB,MySQL
+• Full-Stack MERN Development (MongoDB, Express.js, React.js, Node.js)
+• Next.js Development (App Router & Server Components)
+• React Native Mobile App Development
+• RESTful API Development
+• Authentication & Authorization (JWT, OAuth)
+• AI Integration (OpenAI APIs, AI Chatbots, AI Assistants, AI Automation)
+• Database Design & Management
+• Responsive & Modern UI Development
+• API Integration & Third-Party Services
+• Deployment & Cloud Hosting
 
-## 🌟 Featured Projects
+🛠 Technologies I Work With
 
-- Coming Soon ...
+Frontend :
+
+• React.js
+• Next.js
+• JavaScript (ES6+)
+• TypeScript
+• HTML5
+• CSS3
+• Tailwind CSS
+• Bootstrap
+
+Backend :
+
+• Node.js
+• Express.js
+• REST APIs
+• Authentication & Authorization
+• File Upload Systems
+• Payment Gateway Integration
+
+Databases :
+
+• MongoDB
+• PostgreSQL
+• MySQL
+• SQL
+
+Development Tools :
+
+• Git & GitHub
+• Postman
+• VS Code
+• npm
+• Cloudinary
+• Firebase
+• Vercel
+• Render
+
+🤖 AI-Powered Development :
+
+I build intelligent applications by integrating modern AI capabilities, including:
+
+• AI Chatbots
+• AI Content Generation
+• AI Assistants
+• Document Processing
+• Workflow Automation
+• AI API Integrations
+• Prompt Engineering
+
+
+🎯 What You Can Expect :
+
+✅ Clean, maintainable, and scalable code
+✅ Responsive and modern user interfaces
+✅ Secure backend architecture
+✅ Well-structured database design
+✅ Fast communication and regular progress updates
+✅ On-time project delivery
+✅ Long-term technical support
+
+Whether you need a full-stack web application, a cross-platform mobile app, a scalable backend, or an AI-powered solution, I can help turn your requirements into reliable, production-ready software.
+
+Let's build something exceptional together.
+
 
 ## 📬 Connect With Me
 
